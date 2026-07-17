@@ -35,6 +35,7 @@
         "turnover": 539868089005.2001,
         "stocks": [
           {
+            "sectorCode": "REF001",
             "code": "603823",
             "name": "百合花",
             "rank": 1,
@@ -49,6 +50,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "603931",
             "name": "格林达",
             "rank": 2,
@@ -63,6 +65,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF001",
             "code": "603155",
             "name": "新亚强",
             "rank": 3,
@@ -77,6 +80,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF001",
             "code": "603928",
             "name": "兴业股份",
             "rank": 4,
@@ -91,6 +95,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "603078",
             "name": "江化微",
             "rank": 5,
@@ -105,6 +110,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "688503",
             "name": "聚和材料",
             "rank": 6,
@@ -119,6 +125,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "300236",
             "name": "上海新阳",
             "rank": 7,
@@ -133,6 +140,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "688181",
             "name": "八亿时空",
             "rank": 8,
@@ -147,6 +155,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "688550",
             "name": "瑞联新材",
             "rank": 9,
@@ -161,6 +170,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "603120",
             "name": "肯特催化",
             "rank": 10,
@@ -175,6 +185,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "688179",
             "name": "阿拉丁",
             "rank": 11,
@@ -189,6 +200,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "688727",
             "name": "恒坤新材",
             "rank": 12,
@@ -203,6 +215,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "300721",
             "name": "怡达股份",
             "rank": 13,
@@ -217,6 +230,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "300655",
             "name": "晶瑞电材",
             "rank": 14,
@@ -231,6 +245,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "300398",
             "name": "飞凯材料",
             "rank": 15,
@@ -245,6 +260,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "002741",
             "name": "光华科技",
             "rank": 16,
@@ -259,6 +275,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "301321",
             "name": "翰博高新",
             "rank": 17,
@@ -273,6 +290,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "603650",
             "name": "彤程新材",
             "rank": 18,
@@ -287,6 +305,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF001",
             "code": "688669",
             "name": "聚石化学",
             "rank": 19,
@@ -316,6 +335,7 @@
         "turnover": 1905884371954.8,
         "stocks": [
           {
+            "sectorCode": "REF002",
             "code": "688733",
             "name": "壹石通",
             "rank": 1,
@@ -330,6 +350,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "688019",
             "name": "安集科技",
             "rank": 2,
@@ -344,6 +365,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "688690",
             "name": "纳微科技",
             "rank": 3,
@@ -358,6 +380,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "688535",
             "name": "华海诚科",
             "rank": 4,
@@ -372,6 +395,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "688548",
             "name": "广钢气体",
             "rank": 5,
@@ -386,6 +410,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "300666",
             "name": "江丰电子",
             "rank": 6,
@@ -400,6 +425,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "688456",
             "name": "有研粉材",
             "rank": 7,
@@ -414,6 +440,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "300540",
             "name": "蜀道装备",
             "rank": 8,
@@ -428,6 +455,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "300706",
             "name": "阿石创",
             "rank": 9,
@@ -442,6 +470,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "603663",
             "name": "三祥新材",
             "rank": 10,
@@ -456,6 +485,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "688106",
             "name": "金宏气体",
             "rank": 11,
@@ -470,6 +500,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "600206",
             "name": "有研新材",
             "rank": 12,
@@ -484,6 +515,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "002409",
             "name": "雅克科技",
             "rank": 13,
@@ -498,6 +530,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "688300",
             "name": "联瑞新材",
             "rank": 14,
@@ -512,6 +545,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "002407",
             "name": "多氟多",
             "rank": 15,
@@ -526,6 +560,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "688549",
             "name": "中巨芯",
             "rank": 16,
@@ -540,6 +575,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF002",
             "code": "301319",
             "name": "唯特偶",
             "rank": 17,
@@ -569,6 +605,7 @@
         "turnover": 778095532131,
         "stocks": [
           {
+            "sectorCode": "REF003",
             "code": "600160",
             "name": "巨化股份",
             "rank": 1,
@@ -583,6 +620,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF003",
             "code": "688545",
             "name": "兴福电子",
             "rank": 2,
@@ -597,6 +635,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF003",
             "code": "300346",
             "name": "南大光电",
             "rank": 3,
@@ -611,6 +650,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF003",
             "code": "688268",
             "name": "华特气体",
             "rank": 4,
@@ -625,6 +665,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF003",
             "code": "688146",
             "name": "中船特气",
             "rank": 5,
@@ -639,6 +680,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF003",
             "code": "600378",
             "name": "昊华科技",
             "rank": 6,
@@ -653,6 +695,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF003",
             "code": "600397",
             "name": "江钨装备",
             "rank": 7,
@@ -667,6 +710,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF003",
             "code": "002971",
             "name": "和远气体",
             "rank": 8,
@@ -696,6 +740,7 @@
         "turnover": 606937614548,
         "stocks": [
           {
+            "sectorCode": "REF004",
             "code": "688126",
             "name": "沪硅产业",
             "rank": 1,
@@ -710,6 +755,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF004",
             "code": "688584",
             "name": "上海合晶",
             "rank": 2,
@@ -724,6 +770,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF004",
             "code": "002129",
             "name": "TCL中环",
             "rank": 3,
@@ -738,6 +785,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF004",
             "code": "003026",
             "name": "中晶科技",
             "rank": 4,
@@ -752,6 +800,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF004",
             "code": "605358",
             "name": "立昂微",
             "rank": 5,
@@ -781,6 +830,7 @@
         "turnover": 2611144308562.8,
         "stocks": [
           {
+            "sectorCode": "REF005",
             "code": "603137",
             "name": "恒尚节能",
             "rank": 1,
@@ -795,6 +845,7 @@
             "streak": 5
           },
           {
+            "sectorCode": "REF005",
             "code": "688525",
             "name": "佰维存储",
             "rank": 2,
@@ -809,6 +860,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "301308",
             "name": "江波龙",
             "rank": 3,
@@ -823,6 +875,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "600246",
             "name": "万通发展",
             "rank": 4,
@@ -837,6 +890,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF005",
             "code": "688123",
             "name": "聚辰股份",
             "rank": 5,
@@ -851,6 +905,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "001309",
             "name": "德明利",
             "rank": 6,
@@ -865,6 +920,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "301099",
             "name": "雅创电子",
             "rank": 7,
@@ -879,6 +935,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "300672",
             "name": "国科微",
             "rank": 8,
@@ -893,6 +950,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "603986",
             "name": "兆易创新",
             "rank": 9,
@@ -907,6 +965,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "300806",
             "name": "斯迪克",
             "rank": 10,
@@ -921,6 +980,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "688449",
             "name": "联芸科技",
             "rank": 11,
@@ -935,6 +995,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "000021",
             "name": "深科技",
             "rank": 12,
@@ -949,6 +1010,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF005",
             "code": "605178",
             "name": "时空科技",
             "rank": 13,
@@ -978,6 +1040,7 @@
         "turnover": 3683716667239,
         "stocks": [
           {
+            "sectorCode": "REF006",
             "code": "688652",
             "name": "京仪装备",
             "rank": 1,
@@ -992,6 +1055,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688147",
             "name": "微导纳米",
             "rank": 2,
@@ -1006,6 +1070,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688037",
             "name": "芯源微",
             "rank": 3,
@@ -1020,6 +1085,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688082",
             "name": "盛美上海",
             "rank": 4,
@@ -1034,6 +1100,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "300668",
             "name": "杰恩股份",
             "rank": 5,
@@ -1048,6 +1115,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688012",
             "name": "中微公司",
             "rank": 6,
@@ -1062,6 +1130,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688409",
             "name": "富创精密",
             "rank": 7,
@@ -1076,6 +1145,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688120",
             "name": "华海清科",
             "rank": 8,
@@ -1090,6 +1160,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "603690",
             "name": "至纯科技",
             "rank": 9,
@@ -1104,6 +1175,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "300054",
             "name": "鼎龙股份",
             "rank": 10,
@@ -1118,6 +1190,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "002787",
             "name": "华源控股",
             "rank": 11,
@@ -1132,6 +1205,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "603283",
             "name": "赛腾股份",
             "rank": 12,
@@ -1146,6 +1220,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "300873",
             "name": "海晨股份",
             "rank": 13,
@@ -1160,6 +1235,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688605",
             "name": "先锋精科",
             "rank": 14,
@@ -1174,6 +1250,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "002371",
             "name": "北方华创",
             "rank": 15,
@@ -1188,6 +1265,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "301528",
             "name": "多浦乐",
             "rank": 16,
@@ -1202,6 +1280,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688233",
             "name": "神工股份",
             "rank": 17,
@@ -1216,6 +1295,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "301297",
             "name": "富乐德",
             "rank": 18,
@@ -1230,6 +1310,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "301611",
             "name": "珂玛科技",
             "rank": 19,
@@ -1244,6 +1325,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "300331",
             "name": "苏大维格",
             "rank": 20,
@@ -1258,6 +1340,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "300820",
             "name": "英杰电气",
             "rank": 21,
@@ -1272,6 +1355,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "300260",
             "name": "新莱应材",
             "rank": 22,
@@ -1286,6 +1370,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "003043",
             "name": "华亚智能",
             "rank": 23,
@@ -1300,6 +1385,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF006",
             "code": "688729",
             "name": "屹唐股份",
             "rank": 24,
@@ -1329,6 +1415,7 @@
         "turnover": 2000447933916.8,
         "stocks": [
           {
+            "sectorCode": "REF007",
             "code": "688372",
             "name": "伟测科技",
             "rank": 1,
@@ -1343,6 +1430,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688135",
             "name": "利扬芯片",
             "rank": 2,
@@ -1357,6 +1445,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688392",
             "name": "骄成超声",
             "rank": 3,
@@ -1371,6 +1460,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688809",
             "name": "强一股份",
             "rank": 4,
@@ -1385,6 +1475,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "301369",
             "name": "联动科技",
             "rank": 5,
@@ -1399,6 +1490,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688361",
             "name": "中科飞测",
             "rank": 6,
@@ -1413,6 +1505,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "300604",
             "name": "长川科技",
             "rank": 7,
@@ -1427,6 +1520,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688757",
             "name": "胜科纳米",
             "rank": 8,
@@ -1441,6 +1535,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688627",
             "name": "精智达",
             "rank": 9,
@@ -1455,6 +1550,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688328",
             "name": "深科达",
             "rank": 10,
@@ -1469,6 +1565,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "301629",
             "name": "矽电股份",
             "rank": 11,
@@ -1483,6 +1580,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688200",
             "name": "华峰测控",
             "rank": 12,
@@ -1497,6 +1595,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "603061",
             "name": "金海通",
             "rank": 13,
@@ -1511,6 +1610,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688003",
             "name": "天准科技",
             "rank": 14,
@@ -1525,6 +1625,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "002559",
             "name": "亚威股份",
             "rank": 15,
@@ -1539,6 +1640,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF007",
             "code": "688661",
             "name": "和林微纳",
             "rank": 16,
@@ -1568,6 +1670,7 @@
         "turnover": 1084787351658,
         "stocks": [
           {
+            "sectorCode": "REF008",
             "code": "688362",
             "name": "甬矽电子",
             "rank": 1,
@@ -1582,6 +1685,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "600520",
             "name": "三佳科技",
             "rank": 2,
@@ -1596,6 +1700,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "688352",
             "name": "颀中科技",
             "rank": 3,
@@ -1610,6 +1715,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "600584",
             "name": "长电科技",
             "rank": 4,
@@ -1624,6 +1730,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "688403",
             "name": "汇成股份",
             "rank": 5,
@@ -1638,6 +1745,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "002185",
             "name": "华天科技",
             "rank": 6,
@@ -1652,6 +1760,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "002156",
             "name": "通富微电",
             "rank": 7,
@@ -1666,6 +1775,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "688419",
             "name": "耐科装备",
             "rank": 8,
@@ -1680,6 +1790,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "603991",
             "name": "领先股份",
             "rank": 9,
@@ -1694,6 +1805,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "300480",
             "name": "光力科技",
             "rank": 10,
@@ -1708,6 +1820,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "688383",
             "name": "新益昌",
             "rank": 11,
@@ -1722,6 +1835,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "688216",
             "name": "气派科技",
             "rank": 12,
@@ -1736,6 +1850,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF008",
             "code": "002119",
             "name": "康强电子",
             "rank": 13,
@@ -1765,6 +1880,7 @@
         "turnover": 858896929895,
         "stocks": [
           {
+            "sectorCode": "REF009",
             "code": "300671",
             "name": "富满微",
             "rank": 1,
@@ -1779,6 +1895,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF009",
             "code": "688141",
             "name": "杰华特",
             "rank": 2,
@@ -1793,6 +1910,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF009",
             "code": "688396",
             "name": "华润微",
             "rank": 3,
@@ -1807,6 +1925,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF009",
             "code": "688536",
             "name": "思瑞浦",
             "rank": 4,
@@ -1821,6 +1940,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF009",
             "code": "688508",
             "name": "芯朋微",
             "rank": 5,
@@ -1835,6 +1955,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF009",
             "code": "600460",
             "name": "士兰微",
             "rank": 6,
@@ -1864,6 +1985,7 @@
         "turnover": 83094013722.00002,
         "stocks": [
           {
+            "sectorCode": "REF010",
             "code": "300433",
             "name": "蓝思科技",
             "rank": 1,
@@ -1878,6 +2000,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "688079",
             "name": "美迪凯",
             "rank": 2,
@@ -1892,6 +2015,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "601636",
             "name": "旗滨集团",
             "rank": 3,
@@ -1906,6 +2030,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "300088",
             "name": "长信科技",
             "rank": 4,
@@ -1920,6 +2045,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "600552",
             "name": "凯盛科技",
             "rank": 5,
@@ -1934,6 +2060,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "000100",
             "name": "TCL科技",
             "rank": 6,
@@ -1948,6 +2075,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "300776",
             "name": "帝尔激光",
             "rank": 7,
@@ -1962,6 +2090,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "301188",
             "name": "力诺药包",
             "rank": 8,
@@ -1976,6 +2105,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "600707",
             "name": "彩虹股份",
             "rank": 9,
@@ -1990,6 +2120,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "603773",
             "name": "沃格光电",
             "rank": 10,
@@ -2004,6 +2135,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF010",
             "code": "300321",
             "name": "同大股份",
             "rank": 11,
@@ -2033,6 +2165,7 @@
         "turnover": 2457614674511,
         "stocks": [
           {
+            "sectorCode": "REF011",
             "code": "688256",
             "name": "寒武纪",
             "rank": 1,
@@ -2047,6 +2180,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF011",
             "code": "300938",
             "name": "信测标准",
             "rank": 2,
@@ -2061,6 +2195,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF011",
             "code": "688521",
             "name": "芯原股份",
             "rank": 3,
@@ -2075,6 +2210,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF011",
             "code": "688110",
             "name": "东芯股份",
             "rank": 4,
@@ -2089,6 +2225,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF011",
             "code": "688227",
             "name": "品高股份",
             "rank": 5,
@@ -2103,6 +2240,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF011",
             "code": "301259",
             "name": "艾布鲁",
             "rank": 6,
@@ -2132,6 +2270,7 @@
         "turnover": 212557970327,
         "stocks": [
           {
+            "sectorCode": "REF012",
             "code": "600172",
             "name": "黄河旋风",
             "rank": 1,
@@ -2146,6 +2285,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF012",
             "code": "300179",
             "name": "四方达",
             "rank": 2,
@@ -2160,6 +2300,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF012",
             "code": "688028",
             "name": "沃尔德",
             "rank": 3,
@@ -2174,6 +2315,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF012",
             "code": "301071",
             "name": "力量钻石",
             "rank": 4,
@@ -2188,6 +2330,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF012",
             "code": "002046",
             "name": "国机精工",
             "rank": 5,
@@ -2202,6 +2345,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF012",
             "code": "688323",
             "name": "瑞华泰",
             "rank": 6,
@@ -2231,6 +2375,7 @@
         "turnover": 3120930900929,
         "stocks": [
           {
+            "sectorCode": "REF013",
             "code": "688172",
             "name": "燕东微",
             "rank": 1,
@@ -2245,6 +2390,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF013",
             "code": "688347",
             "name": "华虹宏力",
             "rank": 2,
@@ -2259,6 +2405,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF013",
             "code": "688981",
             "name": "中芯国际",
             "rank": 3,
@@ -2273,6 +2420,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF013",
             "code": "688249",
             "name": "晶合集成",
             "rank": 4,
@@ -2287,6 +2435,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF013",
             "code": "688469",
             "name": "芯联集成",
             "rank": 5,
@@ -2316,6 +2465,7 @@
         "turnover": 1242464361022,
         "stocks": [
           {
+            "sectorCode": "REF014",
             "code": "000066",
             "name": "中国长城",
             "rank": 1,
@@ -2330,6 +2480,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF014",
             "code": "688041",
             "name": "海光信息",
             "rank": 2,
@@ -2344,6 +2495,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF014",
             "code": "002290",
             "name": "禾盛新材",
             "rank": 3,
@@ -2358,6 +2510,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF014",
             "code": "600770",
             "name": "综艺股份",
             "rank": 4,
@@ -2387,6 +2540,7 @@
         "turnover": 261793313200,
         "stocks": [
           {
+            "sectorCode": "REF015",
             "code": "688376",
             "name": "美埃科技",
             "rank": 1,
@@ -2401,6 +2555,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF015",
             "code": "603929",
             "name": "亚翔集成",
             "rank": 2,
@@ -2415,6 +2570,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF015",
             "code": "601133",
             "name": "柏诚股份",
             "rank": 3,
@@ -2429,6 +2585,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF015",
             "code": "688596",
             "name": "正帆科技",
             "rank": 4,
@@ -2458,6 +2615,7 @@
         "turnover": 5195273445,
         "stocks": [
           {
+            "sectorCode": "REF016",
             "code": "000672",
             "name": "上峰材料",
             "rank": 1,
@@ -2472,6 +2630,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF016",
             "code": "002208",
             "name": "合肥城建",
             "rank": 2,
@@ -2486,6 +2645,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF016",
             "code": "603726",
             "name": "朗迪集团",
             "rank": 3,
@@ -2500,6 +2660,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF016",
             "code": "600909",
             "name": "华安证券",
             "rank": 4,
@@ -2529,6 +2690,7 @@
         "turnover": 647403764577,
         "stocks": [
           {
+            "sectorCode": "REF017",
             "code": "688485",
             "name": "九州一轨",
             "rank": 1,
@@ -2543,6 +2705,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "600353",
             "name": "旭光电子",
             "rank": 2,
@@ -2557,6 +2720,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "301486",
             "name": "致尚科技",
             "rank": 3,
@@ -2571,6 +2735,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "688598",
             "name": "金博股份",
             "rank": 4,
@@ -2585,6 +2750,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "300782",
             "name": "卓胜微",
             "rank": 5,
@@ -2599,6 +2765,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "688167",
             "name": "炬光科技",
             "rank": 6,
@@ -2613,6 +2780,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "603738",
             "name": "泰晶科技",
             "rank": 7,
@@ -2627,6 +2795,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "003031",
             "name": "中瓷电子",
             "rank": 8,
@@ -2641,6 +2810,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "688381",
             "name": "帝奥微",
             "rank": 9,
@@ -2655,6 +2825,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "688662",
             "name": "富信科技",
             "rank": 10,
@@ -2669,6 +2840,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "688090",
             "name": "瑞松科技",
             "rank": 11,
@@ -2683,6 +2855,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "300570",
             "name": "太辰光",
             "rank": 12,
@@ -2697,6 +2870,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF017",
             "code": "688307",
             "name": "中润光学",
             "rank": 13,
@@ -2726,6 +2900,7 @@
         "turnover": 160899726282.4,
         "stocks": [
           {
+            "sectorCode": "REF018",
             "code": "600497",
             "name": "驰宏锌锗",
             "rank": 1,
@@ -2740,6 +2915,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "600345",
             "name": "长江通信",
             "rank": 2,
@@ -2754,6 +2930,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "600487",
             "name": "亨通光电",
             "rank": 3,
@@ -2768,6 +2945,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "002491",
             "name": "通鼎互联",
             "rank": 4,
@@ -2782,6 +2960,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "688143",
             "name": "长盈通",
             "rank": 5,
@@ -2796,6 +2975,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "600498",
             "name": "烽火通信",
             "rank": 6,
@@ -2810,6 +2990,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "301349",
             "name": "信德新材",
             "rank": 7,
@@ -2824,6 +3005,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "601869",
             "name": "长飞光纤",
             "rank": 8,
@@ -2838,6 +3020,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "600869",
             "name": "远东股份",
             "rank": 9,
@@ -2852,6 +3035,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF018",
             "code": "603618",
             "name": "杭电股份",
             "rank": 10,
@@ -2881,6 +3065,7 @@
         "turnover": 31120371617,
         "stocks": [
           {
+            "sectorCode": "REF019",
             "code": "002428",
             "name": "云南锗业",
             "rank": 1,
@@ -2895,6 +3080,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "000960",
             "name": "锡业股份",
             "rank": 2,
@@ -2909,6 +3095,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "002674",
             "name": "兴业科技",
             "rank": 3,
@@ -2923,6 +3110,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "002975",
             "name": "博杰股份",
             "rank": 4,
@@ -2937,6 +3125,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "603065",
             "name": "宿迁联盛",
             "rank": 5,
@@ -2951,6 +3140,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "600703",
             "name": "三安光电",
             "rank": 6,
@@ -2965,6 +3155,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "600330",
             "name": "天通股份",
             "rank": 7,
@@ -2979,6 +3170,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "600961",
             "name": "株冶集团",
             "rank": 8,
@@ -2993,6 +3185,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "300720",
             "name": "海川智能",
             "rank": 9,
@@ -3007,6 +3200,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "300489",
             "name": "光智科技",
             "rank": 10,
@@ -3021,6 +3215,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF019",
             "code": "600641",
             "name": "先导基电",
             "rank": 11,
@@ -3050,6 +3245,7 @@
         "turnover": 430414695452,
         "stocks": [
           {
+            "sectorCode": "REF020",
             "code": "002980",
             "name": "华盛昌",
             "rank": 1,
@@ -3064,6 +3260,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "603203",
             "name": "快克智能",
             "rank": 2,
@@ -3078,6 +3275,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "688531",
             "name": "日联科技",
             "rank": 3,
@@ -3092,6 +3290,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "688628",
             "name": "优利德",
             "rank": 4,
@@ -3106,6 +3305,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "300757",
             "name": "罗博特科",
             "rank": 5,
@@ -3120,6 +3320,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "301021",
             "name": "英诺激光",
             "rank": 6,
@@ -3134,6 +3335,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "688001",
             "name": "华兴源创",
             "rank": 7,
@@ -3148,6 +3350,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "688610",
             "name": "埃科光电",
             "rank": 8,
@@ -3162,6 +3365,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "002957",
             "name": "科瑞技术",
             "rank": 9,
@@ -3176,6 +3380,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "688686",
             "name": "奥普特",
             "rank": 10,
@@ -3190,6 +3395,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF020",
             "code": "688112",
             "name": "鼎阳科技",
             "rank": 11,
@@ -3219,6 +3425,7 @@
         "turnover": 92836516045,
         "stocks": [
           {
+            "sectorCode": "REF021",
             "code": "300308",
             "name": "中际旭创",
             "rank": 1,
@@ -3233,6 +3440,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF021",
             "code": "002475",
             "name": "立讯精密",
             "rank": 2,
@@ -3247,6 +3455,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF021",
             "code": "000988",
             "name": "华工科技",
             "rank": 3,
@@ -3261,6 +3470,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF021",
             "code": "300502",
             "name": "新易盛",
             "rank": 4,
@@ -3275,6 +3485,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF021",
             "code": "300548",
             "name": "长芯博创",
             "rank": 5,
@@ -3289,6 +3500,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF021",
             "code": "001267",
             "name": "汇绿生态",
             "rank": 6,
@@ -3303,6 +3515,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF021",
             "code": "300394",
             "name": "天孚通信",
             "rank": 7,
@@ -3317,6 +3530,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF021",
             "code": "301205",
             "name": "联特科技",
             "rank": 8,
@@ -3331,6 +3545,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF021",
             "code": "603083",
             "name": "剑桥科技",
             "rank": 9,
@@ -3360,6 +3575,7 @@
         "turnover": 1712213003863,
         "stocks": [
           {
+            "sectorCode": "REF022",
             "code": "688048",
             "name": "长光华芯",
             "rank": 1,
@@ -3374,6 +3590,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF022",
             "code": "688498",
             "name": "源杰科技",
             "rank": 2,
@@ -3388,6 +3605,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF022",
             "code": "002384",
             "name": "东山精密",
             "rank": 3,
@@ -3402,6 +3620,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF022",
             "code": "002281",
             "name": "光迅科技",
             "rank": 4,
@@ -3416,6 +3635,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF022",
             "code": "688313",
             "name": "仕佳光子",
             "rank": 5,
@@ -3430,6 +3650,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF022",
             "code": "600105",
             "name": "永鼎股份",
             "rank": 6,
@@ -3444,6 +3665,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF022",
             "code": "603031",
             "name": "安孚科技",
             "rank": 7,
@@ -3473,6 +3695,7 @@
         "turnover": 119220009144,
         "stocks": [
           {
+            "sectorCode": "REF023",
             "code": "300131",
             "name": "英唐智控",
             "rank": 1,
@@ -3487,6 +3710,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF023",
             "code": "688025",
             "name": "杰普特",
             "rank": 2,
@@ -3501,6 +3725,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF023",
             "code": "300620",
             "name": "光库科技",
             "rank": 3,
@@ -3530,6 +3755,7 @@
         "turnover": 2653443822.9999995,
         "stocks": [
           {
+            "sectorCode": "REF024",
             "code": "002222",
             "name": "福晶科技",
             "rank": 1,
@@ -3544,6 +3770,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF024",
             "code": "301183",
             "name": "东田微",
             "rank": 2,
@@ -3573,6 +3800,7 @@
         "turnover": 104814848867,
         "stocks": [
           {
+            "sectorCode": "REF025",
             "code": "688150",
             "name": "莱特光电",
             "rank": 1,
@@ -3587,6 +3815,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "300395",
             "name": "菲利华",
             "rank": 2,
@@ -3601,6 +3830,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "603688",
             "name": "石英股份",
             "rank": 3,
@@ -3615,6 +3845,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "600545",
             "name": "卓郎智能",
             "rank": 4,
@@ -3629,6 +3860,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "605006",
             "name": "山东玻纤",
             "rank": 5,
@@ -3643,6 +3875,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "001359",
             "name": "平安电工",
             "rank": 6,
@@ -3657,6 +3890,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "603256",
             "name": "宏和科技",
             "rank": 7,
@@ -3671,6 +3905,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "003036",
             "name": "泰坦股份",
             "rank": 8,
@@ -3685,6 +3920,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "300819",
             "name": "聚杰微纤",
             "rank": 9,
@@ -3699,6 +3935,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "600176",
             "name": "中国巨石",
             "rank": 10,
@@ -3713,6 +3950,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "002080",
             "name": "中材科技",
             "rank": 11,
@@ -3727,6 +3965,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF025",
             "code": "301526",
             "name": "国际复材",
             "rank": 12,
@@ -3756,6 +3995,7 @@
         "turnover": 455489322093,
         "stocks": [
           {
+            "sectorCode": "REF026",
             "code": "603800",
             "name": "洪田股份",
             "rank": 1,
@@ -3770,6 +4010,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF026",
             "code": "688388",
             "name": "嘉元科技",
             "rank": 2,
@@ -3784,6 +4025,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF026",
             "code": "688359",
             "name": "三孚新科",
             "rank": 3,
@@ -3798,6 +4040,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF026",
             "code": "301217",
             "name": "铜冠铜箔",
             "rank": 4,
@@ -3812,6 +4055,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF026",
             "code": "688603",
             "name": "天承科技",
             "rank": 5,
@@ -3826,6 +4070,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF026",
             "code": "301176",
             "name": "逸豪新材",
             "rank": 6,
@@ -3840,6 +4085,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF026",
             "code": "688020",
             "name": "方邦股份",
             "rank": 7,
@@ -3854,6 +4100,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF026",
             "code": "600110",
             "name": "诺德股份",
             "rank": 8,
@@ -3868,6 +4115,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF026",
             "code": "301511",
             "name": "德福科技",
             "rank": 9,
@@ -3897,6 +4145,7 @@
         "turnover": 296548784712,
         "stocks": [
           {
+            "sectorCode": "REF027",
             "code": "002141",
             "name": "贤丰控股",
             "rank": 1,
@@ -3911,6 +4160,7 @@
             "streak": 2
           },
           {
+            "sectorCode": "REF027",
             "code": "600183",
             "name": "生益科技",
             "rank": 2,
@@ -3925,6 +4175,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF027",
             "code": "603002",
             "name": "宏昌电子",
             "rank": 3,
@@ -3939,6 +4190,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF027",
             "code": "688519",
             "name": "南亚新材",
             "rank": 4,
@@ -3953,6 +4205,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF027",
             "code": "603186",
             "name": "华正新材",
             "rank": 5,
@@ -3967,6 +4220,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF027",
             "code": "002636",
             "name": "金安国纪",
             "rank": 6,
@@ -3981,6 +4235,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF027",
             "code": "002552",
             "name": "宝鼎科技",
             "rank": 7,
@@ -4010,6 +4265,7 @@
         "turnover": 8749186990,
         "stocks": [
           {
+            "sectorCode": "REF028",
             "code": "605589",
             "name": "圣泉集团",
             "rank": 1,
@@ -4024,6 +4280,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF028",
             "code": "301630",
             "name": "同宇新材",
             "rank": 2,
@@ -4038,6 +4295,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF028",
             "code": "601208",
             "name": "东材科技",
             "rank": 3,
@@ -4052,6 +4310,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF028",
             "code": "301373",
             "name": "凌玮科技",
             "rank": 4,
@@ -4066,6 +4325,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF028",
             "code": "600500",
             "name": "中化国际",
             "rank": 5,
@@ -4095,6 +4355,7 @@
         "turnover": 101285992667.3,
         "stocks": [
           {
+            "sectorCode": "REF029",
             "code": "300184",
             "name": "力源信息",
             "rank": 1,
@@ -4109,6 +4370,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "002484",
             "name": "江海股份",
             "rank": 2,
@@ -4123,6 +4385,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "301013",
             "name": "利和兴",
             "rank": 3,
@@ -4137,6 +4400,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "300408",
             "name": "三环集团",
             "rank": 4,
@@ -4151,6 +4415,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "301237",
             "name": "和顺科技",
             "rank": 5,
@@ -4165,6 +4430,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "300285",
             "name": "国瓷材料",
             "rank": 6,
@@ -4179,6 +4445,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "688260",
             "name": "昀冢科技",
             "rank": 7,
@@ -4193,6 +4460,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "002167",
             "name": "东方锆业",
             "rank": 8,
@@ -4207,6 +4475,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "603115",
             "name": "海星股份",
             "rank": 9,
@@ -4221,6 +4490,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "300174",
             "name": "元力股份",
             "rank": 10,
@@ -4235,6 +4505,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "002138",
             "name": "顺络电子",
             "rank": 11,
@@ -4249,6 +4520,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "300726",
             "name": "宏达电子",
             "rank": 12,
@@ -4263,6 +4535,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "002585",
             "name": "双星新材",
             "rank": 13,
@@ -4277,6 +4550,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "000636",
             "name": "风华高科",
             "rank": 14,
@@ -4291,6 +4565,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "300835",
             "name": "龙磁科技",
             "rank": 15,
@@ -4305,6 +4580,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "002859",
             "name": "洁美科技",
             "rank": 16,
@@ -4319,6 +4595,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "605376",
             "name": "博迁新材",
             "rank": 17,
@@ -4333,6 +4610,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "300136",
             "name": "信维通信",
             "rank": 18,
@@ -4347,6 +4625,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "603989",
             "name": "艾华集团",
             "rank": 19,
@@ -4361,6 +4640,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "000962",
             "name": "东方钽业",
             "rank": 20,
@@ -4375,6 +4655,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "603678",
             "name": "火炬电子",
             "rank": 21,
@@ -4389,6 +4670,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF029",
             "code": "600367",
             "name": "红星发展",
             "rank": 22,
@@ -4418,6 +4700,7 @@
         "turnover": 307573037503.6,
         "stocks": [
           {
+            "sectorCode": "REF030",
             "code": "688183",
             "name": "生益电子",
             "rank": 1,
@@ -4432,6 +4715,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "600601",
             "name": "方正科技",
             "rank": 2,
@@ -4446,6 +4730,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "002938",
             "name": "鹏鼎控股",
             "rank": 3,
@@ -4460,6 +4745,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "002436",
             "name": "兴森科技",
             "rank": 4,
@@ -4474,6 +4760,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "300903",
             "name": "科翔股份",
             "rank": 5,
@@ -4488,6 +4775,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "002916",
             "name": "深南电路",
             "rank": 6,
@@ -4502,6 +4790,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "002463",
             "name": "沪电股份",
             "rank": 7,
@@ -4516,6 +4805,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "300476",
             "name": "胜宏科技",
             "rank": 8,
@@ -4530,6 +4820,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "300852",
             "name": "四会富仕",
             "rank": 9,
@@ -4544,6 +4835,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "300814",
             "name": "中富电路",
             "rank": 10,
@@ -4558,6 +4850,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "300964",
             "name": "本川智能",
             "rank": 11,
@@ -4572,6 +4865,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "001389",
             "name": "广合科技",
             "rank": 12,
@@ -4586,6 +4880,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "603228",
             "name": "景旺电子",
             "rank": 13,
@@ -4600,6 +4895,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "688655",
             "name": "迅捷兴",
             "rank": 14,
@@ -4614,6 +4910,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF030",
             "code": "002579",
             "name": "中京电子",
             "rank": 15,
@@ -4643,6 +4940,7 @@
         "turnover": 335256036339,
         "stocks": [
           {
+            "sectorCode": "REF031",
             "code": "002008",
             "name": "大族激光",
             "rank": 1,
@@ -4657,6 +4955,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF031",
             "code": "300868",
             "name": "杰美特",
             "rank": 2,
@@ -4671,6 +4970,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF031",
             "code": "688630",
             "name": "芯碁微装",
             "rank": 3,
@@ -4685,6 +4985,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF031",
             "code": "301200",
             "name": "大族数控",
             "rank": 4,
@@ -4699,6 +5000,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF031",
             "code": "301568",
             "name": "思泰克",
             "rank": 5,
@@ -4713,6 +5015,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF031",
             "code": "688813",
             "name": "泰金新能",
             "rank": 6,
@@ -4727,6 +5030,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF031",
             "code": "301362",
             "name": "民爆光电",
             "rank": 7,
@@ -4756,6 +5060,7 @@
         "turnover": 503979279872,
         "stocks": [
           {
+            "sectorCode": "REF032",
             "code": "002297",
             "name": "博云新材",
             "rank": 1,
@@ -4770,6 +5075,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF032",
             "code": "600549",
             "name": "厦门钨业",
             "rank": 2,
@@ -4784,6 +5090,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF032",
             "code": "301377",
             "name": "鼎泰高科",
             "rank": 3,
@@ -4798,6 +5105,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF032",
             "code": "300283",
             "name": "温州宏丰",
             "rank": 4,
@@ -4812,6 +5120,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF032",
             "code": "000657",
             "name": "中钨高新",
             "rank": 5,
@@ -4826,6 +5135,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF032",
             "code": "002842",
             "name": "翔鹭钨业",
             "rank": 6,
@@ -4840,6 +5150,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF032",
             "code": "688308",
             "name": "欧科亿",
             "rank": 7,
@@ -4854,6 +5165,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF032",
             "code": "688257",
             "name": "新锐股份",
             "rank": 8,
@@ -4883,6 +5195,7 @@
         "turnover": 249844914312.5,
         "stocks": [
           {
+            "sectorCode": "REF033",
             "code": "300684",
             "name": "中石科技",
             "rank": 1,
@@ -4897,6 +5210,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF033",
             "code": "301317",
             "name": "鑫磊股份",
             "rank": 2,
@@ -4911,6 +5225,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF033",
             "code": "603269",
             "name": "海鸥股份",
             "rank": 3,
@@ -4925,6 +5240,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF033",
             "code": "300145",
             "name": "南方泵业",
             "rank": 4,
@@ -4939,6 +5255,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "300602",
             "name": "飞荣达",
             "rank": 5,
@@ -4953,6 +5270,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "301307",
             "name": "美利信",
             "rank": 6,
@@ -4967,6 +5285,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "301489",
             "name": "思泉新材",
             "rank": 7,
@@ -4981,6 +5300,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "002536",
             "name": "飞龙股份",
             "rank": 8,
@@ -4995,6 +5315,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "300990",
             "name": "同飞股份",
             "rank": 9,
@@ -5009,6 +5330,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "002837",
             "name": "英维克",
             "rank": 10,
@@ -5023,6 +5345,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "002126",
             "name": "银轮股份",
             "rank": 11,
@@ -5037,6 +5360,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "002965",
             "name": "祥鑫科技",
             "rank": 12,
@@ -5051,6 +5375,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "000811",
             "name": "冰轮环境",
             "rank": 13,
@@ -5065,6 +5390,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "301626",
             "name": "苏州天脉",
             "rank": 14,
@@ -5079,6 +5405,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "600673",
             "name": "东阳光",
             "rank": 15,
@@ -5093,6 +5420,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "003018",
             "name": "金富科技",
             "rank": 16,
@@ -5107,6 +5435,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "688668",
             "name": "鼎通科技",
             "rank": 17,
@@ -5121,6 +5450,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "300547",
             "name": "川环科技",
             "rank": 18,
@@ -5135,6 +5465,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "002158",
             "name": "汉钟精机",
             "rank": 19,
@@ -5149,6 +5480,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "301123",
             "name": "奕东电子",
             "rank": 20,
@@ -5163,6 +5495,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "603890",
             "name": "春秋电子",
             "rank": 21,
@@ -5177,6 +5510,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "301128",
             "name": "强瑞技术",
             "rank": 22,
@@ -5191,6 +5525,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "002272",
             "name": "川润股份",
             "rank": 23,
@@ -5205,6 +5540,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "301603",
             "name": "乔锋智能",
             "rank": 24,
@@ -5219,6 +5555,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "688371",
             "name": "菲沃泰",
             "rank": 25,
@@ -5233,6 +5570,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "301182",
             "name": "凯旺科技",
             "rank": 26,
@@ -5247,6 +5585,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "605020",
             "name": "永和股份",
             "rank": 27,
@@ -5261,6 +5600,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "002937",
             "name": "兴瑞科技",
             "rank": 28,
@@ -5275,6 +5615,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "300420",
             "name": "五洋自控",
             "rank": 29,
@@ -5289,6 +5630,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF033",
             "code": "002600",
             "name": "领益智造",
             "rank": 30,
@@ -5318,6 +5660,7 @@
         "turnover": 22826877651.6,
         "stocks": [
           {
+            "sectorCode": "REF034",
             "code": "001896",
             "name": "豫能控股",
             "rank": 1,
@@ -5332,6 +5675,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "603629",
             "name": "利通电子",
             "rank": 2,
@@ -5346,6 +5690,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "300017",
             "name": "网宿科技",
             "rank": 3,
@@ -5360,6 +5705,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "001229",
             "name": "魅视科技",
             "rank": 4,
@@ -5374,6 +5720,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "301248",
             "name": "杰创智能",
             "rank": 5,
@@ -5388,6 +5735,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "300857",
             "name": "协创数据",
             "rank": 6,
@@ -5402,6 +5750,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "600186",
             "name": "莲花控股",
             "rank": 7,
@@ -5416,6 +5765,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "300454",
             "name": "深信服",
             "rank": 8,
@@ -5430,6 +5780,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "605289",
             "name": "罗曼股份",
             "rank": 9,
@@ -5444,6 +5795,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "301396",
             "name": "宏景科技",
             "rank": 10,
@@ -5458,6 +5810,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "300442",
             "name": "润泽科技",
             "rank": 11,
@@ -5472,6 +5825,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "603779",
             "name": "威龙股份",
             "rank": 12,
@@ -5486,6 +5840,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "301111",
             "name": "粤万年青",
             "rank": 13,
@@ -5500,6 +5855,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "002929",
             "name": "润建股份",
             "rank": 14,
@@ -5514,6 +5870,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF034",
             "code": "300209",
             "name": "行云科技",
             "rank": 15,
@@ -5543,6 +5900,7 @@
         "turnover": 40134916047,
         "stocks": [
           {
+            "sectorCode": "REF035",
             "code": "000938",
             "name": "紫光股份",
             "rank": 1,
@@ -5557,6 +5915,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF035",
             "code": "000977",
             "name": "浪潮信息",
             "rank": 2,
@@ -5571,6 +5930,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF035",
             "code": "603296",
             "name": "华勤技术",
             "rank": 3,
@@ -5585,6 +5945,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF035",
             "code": "002261",
             "name": "拓维信息",
             "rank": 4,
@@ -5599,6 +5960,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF035",
             "code": "603019",
             "name": "中科曙光",
             "rank": 5,
@@ -5613,6 +5975,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF035",
             "code": "601138",
             "name": "工业富联",
             "rank": 6,
@@ -5627,6 +5990,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF035",
             "code": "001339",
             "name": "智微智能",
             "rank": 7,
@@ -5641,6 +6005,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF035",
             "code": "301316",
             "name": "慧博云通",
             "rank": 8,
@@ -5670,6 +6035,7 @@
         "turnover": 40085793492,
         "stocks": [
           {
+            "sectorCode": "REF036",
             "code": "002245",
             "name": "蔚蓝锂芯",
             "rank": 1,
@@ -5684,6 +6050,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF036",
             "code": "301607",
             "name": "富特科技",
             "rank": 2,
@@ -5698,6 +6065,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF036",
             "code": "300745",
             "name": "欣锐科技",
             "rank": 3,
@@ -5712,6 +6080,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF036",
             "code": "002851",
             "name": "麦格米特",
             "rank": 4,
@@ -5726,6 +6095,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF036",
             "code": "002364",
             "name": "中恒电气",
             "rank": 5,
@@ -5740,6 +6110,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF036",
             "code": "688551",
             "name": "科威尔",
             "rank": 6,
@@ -5754,6 +6125,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF036",
             "code": "300870",
             "name": "欧陆通",
             "rank": 7,
@@ -5783,6 +6155,7 @@
         "turnover": 160636874458.2,
         "stocks": [
           {
+            "sectorCode": "REF037",
             "code": "301520",
             "name": "万邦医药",
             "rank": 1,
@@ -5797,6 +6170,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "002317",
             "name": "众生药业",
             "rank": 2,
@@ -5811,6 +6185,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "300759",
             "name": "康龙化成",
             "rank": 3,
@@ -5825,6 +6200,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "600488",
             "name": "津药药业",
             "rank": 4,
@@ -5839,6 +6215,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "688796",
             "name": "百奥赛图",
             "rank": 5,
@@ -5853,6 +6230,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "603127",
             "name": "昭衍新药",
             "rank": 6,
@@ -5867,6 +6245,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "688046",
             "name": "药康生物",
             "rank": 7,
@@ -5881,6 +6260,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "688202",
             "name": "美迪西",
             "rank": 8,
@@ -5895,6 +6275,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "300765",
             "name": "石药创新",
             "rank": 9,
@@ -5909,6 +6290,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "603259",
             "name": "药明康德",
             "rank": 10,
@@ -5923,6 +6305,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "002422",
             "name": "科伦药业",
             "rank": 11,
@@ -5937,6 +6320,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF037",
             "code": "002821",
             "name": "凯莱英",
             "rank": 12,
@@ -5966,6 +6350,7 @@
         "turnover": 1324392849816,
         "stocks": [
           {
+            "sectorCode": "REF038",
             "code": "603211",
             "name": "晋拓股份",
             "rank": 1,
@@ -5980,6 +6365,7 @@
             "streak": 2
           },
           {
+            "sectorCode": "REF038",
             "code": "002747",
             "name": "埃斯顿",
             "rank": 2,
@@ -5994,6 +6380,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "603608",
             "name": "天创时尚",
             "rank": 3,
@@ -6008,6 +6395,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "301529",
             "name": "福赛科技",
             "rank": 4,
@@ -6022,6 +6410,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "002768",
             "name": "国恩股份",
             "rank": 5,
@@ -6036,6 +6425,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "301310",
             "name": "鑫宏业",
             "rank": 6,
@@ -6050,6 +6440,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "688017",
             "name": "绿的谐波",
             "rank": 7,
@@ -6064,6 +6455,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "002050",
             "name": "三花智控",
             "rank": 8,
@@ -6078,6 +6470,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "688207",
             "name": "格灵深瞳",
             "rank": 9,
@@ -6092,6 +6485,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "301328",
             "name": "维峰电子",
             "rank": 10,
@@ -6106,6 +6500,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "300907",
             "name": "康平科技",
             "rank": 11,
@@ -6120,6 +6515,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "002354",
             "name": "天娱数科",
             "rank": 12,
@@ -6134,6 +6530,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "688507",
             "name": "索辰科技",
             "rank": 13,
@@ -6148,6 +6545,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF038",
             "code": "300607",
             "name": "拓斯达",
             "rank": 14,
@@ -6177,6 +6575,7 @@
         "turnover": 315677846950.2999,
         "stocks": [
           {
+            "sectorCode": "REF039",
             "code": "002860",
             "name": "星帅尔",
             "rank": 1,
@@ -6191,6 +6590,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF039",
             "code": "688057",
             "name": "金达莱",
             "rank": 2,
@@ -6205,6 +6605,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "301225",
             "name": "恒勃股份",
             "rank": 3,
@@ -6219,6 +6620,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "002415",
             "name": "海康威视",
             "rank": 4,
@@ -6233,6 +6635,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "688777",
             "name": "中控技术",
             "rank": 5,
@@ -6247,6 +6650,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "300553",
             "name": "集智股份",
             "rank": 6,
@@ -6261,6 +6665,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "002850",
             "name": "科达利",
             "rank": 7,
@@ -6275,6 +6680,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "688218",
             "name": "江苏北人",
             "rank": 8,
@@ -6289,6 +6695,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "300984",
             "name": "金沃股份",
             "rank": 9,
@@ -6303,6 +6710,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "688160",
             "name": "步科股份",
             "rank": 10,
@@ -6317,6 +6725,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "300488",
             "name": "恒锋工具",
             "rank": 11,
@@ -6331,6 +6740,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "601698",
             "name": "中国卫通",
             "rank": 12,
@@ -6345,6 +6755,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "300969",
             "name": "恒帅股份",
             "rank": 13,
@@ -6359,6 +6770,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "300124",
             "name": "汇川技术",
             "rank": 14,
@@ -6373,6 +6785,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "605189",
             "name": "富春染织",
             "rank": 15,
@@ -6387,6 +6800,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF039",
             "code": "300115",
             "name": "长盈精密",
             "rank": 16,
@@ -6416,6 +6830,7 @@
         "turnover": 599700018742.7,
         "stocks": [
           {
+            "sectorCode": "REF040",
             "code": "002025",
             "name": "航天电器",
             "rank": 1,
@@ -6430,6 +6845,7 @@
             "streak": 1
           },
           {
+            "sectorCode": "REF040",
             "code": "001270",
             "name": "铖昌科技",
             "rank": 2,
@@ -6444,6 +6860,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "002202",
             "name": "金风科技",
             "rank": 3,
@@ -6458,6 +6875,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "301588",
             "name": "美新科技",
             "rank": 4,
@@ -6472,6 +6890,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "600879",
             "name": "航天电子",
             "rank": 5,
@@ -6486,6 +6905,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "600118",
             "name": "中国卫星",
             "rank": 6,
@@ -6500,6 +6920,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "301232",
             "name": "飞沃科技",
             "rank": 7,
@@ -6514,6 +6935,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "605090",
             "name": "九丰能源",
             "rank": 8,
@@ -6528,6 +6950,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "300780",
             "name": "德恩精工",
             "rank": 9,
@@ -6542,6 +6965,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "688523",
             "name": "航天环宇",
             "rank": 10,
@@ -6556,6 +6980,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "688818",
             "name": "电科蓝天",
             "rank": 11,
@@ -6570,6 +6995,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "688333",
             "name": "铂力特",
             "rank": 12,
@@ -6584,6 +7010,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "002149",
             "name": "西部材料",
             "rank": 13,
@@ -6598,6 +7025,7 @@
             "streak": 0
           },
           {
+            "sectorCode": "REF040",
             "code": "688102",
             "name": "斯瑞新材",
             "rank": 14,
@@ -6616,42 +7044,6 @@
     ],
     "ladder": [
       {
-        "code": "000656",
-        "name": "金科股份",
-        "streak": 3,
-        "sector": "房地产开",
-        "firstLimitTime": "09:25",
-        "lastLimitTime": "09:37",
-        "limitType": "回封板"
-      },
-      {
-        "code": "002396",
-        "name": "星网锐捷",
-        "streak": 2,
-        "sector": "通信设备",
-        "firstLimitTime": "09:25",
-        "lastLimitTime": "09:38",
-        "limitType": "回封板"
-      },
-      {
-        "code": "002607",
-        "name": "中公教育",
-        "streak": 1,
-        "sector": "教育",
-        "firstLimitTime": "09:25",
-        "lastLimitTime": "09:25",
-        "limitType": "一字板"
-      },
-      {
-        "code": "002042",
-        "name": "华孚时尚",
-        "streak": 1,
-        "sector": "纺织制造",
-        "firstLimitTime": "09:25",
-        "lastLimitTime": "09:31",
-        "limitType": "回封板"
-      },
-      {
         "code": "603137",
         "name": "恒尚节能",
         "streak": 5,
@@ -6659,6 +7051,24 @@
         "firstLimitTime": "09:25",
         "lastLimitTime": "09:25",
         "limitType": "早盘板"
+      },
+      {
+        "code": "600793",
+        "name": "宜宾纸业",
+        "streak": 4,
+        "sector": "造纸",
+        "firstLimitTime": "09:36",
+        "lastLimitTime": "10:42",
+        "limitType": "回封板"
+      },
+      {
+        "code": "000656",
+        "name": "金科股份",
+        "streak": 3,
+        "sector": "房地产开",
+        "firstLimitTime": "09:25",
+        "lastLimitTime": "09:37",
+        "limitType": "回封板"
       },
       {
         "code": "603722",
@@ -6670,12 +7080,12 @@
         "limitType": "早盘板"
       },
       {
-        "code": "002245",
-        "name": "蔚蓝锂芯",
-        "streak": 1,
-        "sector": "电池",
-        "firstLimitTime": "09:30",
-        "lastLimitTime": "11:05",
+        "code": "002396",
+        "name": "星网锐捷",
+        "streak": 2,
+        "sector": "通信设备",
+        "firstLimitTime": "09:25",
+        "lastLimitTime": "09:38",
         "limitType": "回封板"
       },
       {
@@ -6688,13 +7098,13 @@
         "limitType": "早盘板"
       },
       {
-        "code": "001287",
-        "name": "中电港",
-        "streak": 1,
-        "sector": "其他电子",
-        "firstLimitTime": "09:31",
-        "lastLimitTime": "09:31",
-        "limitType": "换手板"
+        "code": "603211",
+        "name": "晋拓股份",
+        "streak": 2,
+        "sector": "汽车零部",
+        "firstLimitTime": "09:32",
+        "lastLimitTime": "09:38",
+        "limitType": "回封板"
       },
       {
         "code": "002141",
@@ -6706,21 +7116,39 @@
         "limitType": "回封板"
       },
       {
-        "code": "603211",
-        "name": "晋拓股份",
-        "streak": 2,
-        "sector": "汽车零部",
-        "firstLimitTime": "09:32",
-        "lastLimitTime": "09:38",
+        "code": "002042",
+        "name": "华孚时尚",
+        "streak": 1,
+        "sector": "纺织制造",
+        "firstLimitTime": "09:25",
+        "lastLimitTime": "09:31",
         "limitType": "回封板"
       },
       {
-        "code": "002403",
-        "name": "爱仕达",
+        "code": "002607",
+        "name": "中公教育",
         "streak": 1,
-        "sector": "小家电",
-        "firstLimitTime": "09:33",
-        "lastLimitTime": "09:33",
+        "sector": "教育",
+        "firstLimitTime": "09:25",
+        "lastLimitTime": "09:25",
+        "limitType": "一字板"
+      },
+      {
+        "code": "002245",
+        "name": "蔚蓝锂芯",
+        "streak": 1,
+        "sector": "电池",
+        "firstLimitTime": "09:30",
+        "lastLimitTime": "11:05",
+        "limitType": "回封板"
+      },
+      {
+        "code": "001287",
+        "name": "中电港",
+        "streak": 1,
+        "sector": "其他电子",
+        "firstLimitTime": "09:31",
+        "lastLimitTime": "09:31",
         "limitType": "换手板"
       },
       {
@@ -6733,12 +7161,12 @@
         "limitType": "换手板"
       },
       {
-        "code": "000892",
-        "name": "欢瑞世纪",
+        "code": "002403",
+        "name": "爱仕达",
         "streak": 1,
-        "sector": "影视院线",
-        "firstLimitTime": "09:35",
-        "lastLimitTime": "09:35",
+        "sector": "小家电",
+        "firstLimitTime": "09:33",
+        "lastLimitTime": "09:33",
         "limitType": "换手板"
       },
       {
@@ -6751,13 +7179,13 @@
         "limitType": "换手板"
       },
       {
-        "code": "600793",
-        "name": "宜宾纸业",
-        "streak": 4,
-        "sector": "造纸",
-        "firstLimitTime": "09:36",
-        "lastLimitTime": "10:42",
-        "limitType": "回封板"
+        "code": "000892",
+        "name": "欢瑞世纪",
+        "streak": 1,
+        "sector": "影视院线",
+        "firstLimitTime": "09:35",
+        "lastLimitTime": "09:35",
+        "limitType": "换手板"
       },
       {
         "code": "002828",
@@ -6766,24 +7194,6 @@
         "sector": "油服工程",
         "firstLimitTime": "09:36",
         "lastLimitTime": "09:36",
-        "limitType": "换手板"
-      },
-      {
-        "code": "002989",
-        "name": "中天精装",
-        "streak": 1,
-        "sector": "装修装饰",
-        "firstLimitTime": "09:37",
-        "lastLimitTime": "09:37",
-        "limitType": "换手板"
-      },
-      {
-        "code": "603155",
-        "name": "新亚强",
-        "streak": 1,
-        "sector": "化学制品",
-        "firstLimitTime": "09:37",
-        "lastLimitTime": "09:37",
         "limitType": "换手板"
       },
       {
@@ -6796,13 +7206,22 @@
         "limitType": "回封板"
       },
       {
-        "code": "603269",
-        "name": "海鸥股份",
+        "code": "603155",
+        "name": "新亚强",
         "streak": 1,
-        "sector": "通用设备",
-        "firstLimitTime": "09:38",
-        "lastLimitTime": "10:26",
-        "limitType": "回封板"
+        "sector": "化学制品",
+        "firstLimitTime": "09:37",
+        "lastLimitTime": "09:37",
+        "limitType": "换手板"
+      },
+      {
+        "code": "002989",
+        "name": "中天精装",
+        "streak": 1,
+        "sector": "装修装饰",
+        "firstLimitTime": "09:37",
+        "lastLimitTime": "09:37",
+        "limitType": "换手板"
       },
       {
         "code": "000545",
@@ -6814,6 +7233,15 @@
         "limitType": "换手板"
       },
       {
+        "code": "603269",
+        "name": "海鸥股份",
+        "streak": 1,
+        "sector": "通用设备",
+        "firstLimitTime": "09:38",
+        "lastLimitTime": "10:26",
+        "limitType": "回封板"
+      },
+      {
         "code": "002774",
         "name": "快意电梯",
         "streak": 1,
@@ -6823,21 +7251,21 @@
         "limitType": "换手板"
       },
       {
-        "code": "603903",
-        "name": "中持股份",
-        "streak": 1,
-        "sector": "环境治理",
-        "firstLimitTime": "09:40",
-        "lastLimitTime": "13:21",
-        "limitType": "回封板"
-      },
-      {
         "code": "600215",
         "name": "派斯林",
         "streak": 1,
         "sector": "自动化设",
         "firstLimitTime": "09:40",
         "lastLimitTime": "13:05",
+        "limitType": "回封板"
+      },
+      {
+        "code": "603903",
+        "name": "中持股份",
+        "streak": 1,
+        "sector": "环境治理",
+        "firstLimitTime": "09:40",
+        "lastLimitTime": "13:21",
         "limitType": "回封板"
       },
       {
@@ -6850,15 +7278,6 @@
         "limitType": "换手板"
       },
       {
-        "code": "688206",
-        "name": "概伦电子",
-        "streak": 1,
-        "sector": "软件开发",
-        "firstLimitTime": "09:43",
-        "lastLimitTime": "11:11",
-        "limitType": "回封板"
-      },
-      {
         "code": "002815",
         "name": "崇达技术",
         "streak": 1,
@@ -6868,10 +7287,28 @@
         "limitType": "回封板"
       },
       {
-        "code": "000593",
-        "name": "德龙汇能",
+        "code": "688206",
+        "name": "概伦电子",
         "streak": 1,
-        "sector": "燃气Ⅱ",
+        "sector": "软件开发",
+        "firstLimitTime": "09:43",
+        "lastLimitTime": "11:11",
+        "limitType": "回封板"
+      },
+      {
+        "code": "603819",
+        "name": "神力股份",
+        "streak": 1,
+        "sector": "电机Ⅱ",
+        "firstLimitTime": "09:44",
+        "lastLimitTime": "10:20",
+        "limitType": "回封板"
+      },
+      {
+        "code": "603201",
+        "name": "常润股份",
+        "streak": 1,
+        "sector": "汽车零部",
         "firstLimitTime": "09:44",
         "lastLimitTime": "09:44",
         "limitType": "换手板"
@@ -6886,22 +7323,13 @@
         "limitType": "回封板"
       },
       {
-        "code": "603201",
-        "name": "常润股份",
+        "code": "000593",
+        "name": "德龙汇能",
         "streak": 1,
-        "sector": "汽车零部",
+        "sector": "燃气Ⅱ",
         "firstLimitTime": "09:44",
         "lastLimitTime": "09:44",
         "limitType": "换手板"
-      },
-      {
-        "code": "603819",
-        "name": "神力股份",
-        "streak": 1,
-        "sector": "电机Ⅱ",
-        "firstLimitTime": "09:44",
-        "lastLimitTime": "10:20",
-        "limitType": "回封板"
       },
       {
         "code": "603757",
