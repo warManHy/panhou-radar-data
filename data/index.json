@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-17T16:30:00+08:00",
+  "updatedAt": "2026-07-17T15:30:07.213Z",
   "latest": "2026-07-17",
   "availableDates": [
     "2026-07-17",
@@ -21,79 +21,79 @@
     {
       "date": "2026-07-17",
       "path": "reviews/2026-07-17.json",
-      "sha256": "1a098ae80bf718ac7eac19cb2c00b97fb01472fb2c3de91ce3b554a11a4d16f7",
-      "generatedAt": "2026-07-17T16:30:00+08:00"
+      "sha256": "524be8f64b07295812bfde20fbd8b2f199f4be01ee943a6d347b1ed4465e2b5c",
+      "generatedAt": "2026-07-17T15:30:07.213Z"
     },
     {
       "date": "2026-07-16",
       "path": "reviews/2026-07-16.json",
-      "sha256": "f1a3e6927f5731d0db0dbab5ef1833515ba32acce1a124924a6a112bad6b2014",
+      "sha256": "531ab1e1e74c716d1451c290d87205c9e32ac59675fa9b600f3388e4e79a69f4",
       "generatedAt": "2026-07-16T16:30:00+08:00"
     },
     {
       "date": "2026-07-15",
       "path": "reviews/2026-07-15.json",
-      "sha256": "8e0923da54095ff604f1d25261c1c2c695162ac6c263828560283b448b07c26c",
+      "sha256": "ee89cc6346ab02e0479d17a1229646e4cb02274d3a01cde8496e5fdf82429aff",
       "generatedAt": "2026-07-15T16:30:00+08:00"
     },
     {
       "date": "2026-07-14",
       "path": "reviews/2026-07-14.json",
-      "sha256": "673c11ea3a6451e869599cb6d55f8e182ee0ccbc98efb9f13dfdf743f7888e5c",
+      "sha256": "93ca272a72715e2b577918ef38bdb6cd81f9879c3d69d34e9e4b511ff9dc91b8",
       "generatedAt": "2026-07-14T16:30:00+08:00"
     },
     {
       "date": "2026-07-13",
       "path": "reviews/2026-07-13.json",
-      "sha256": "70bd50c2cb2b90efbca85b7feda253fb03e1bb06ae8e0168579c1290ea51a87b",
+      "sha256": "52c36e2b31789ef1bd6a282ec3ed58fe154683b11fa2732416d7884c204d9010",
       "generatedAt": "2026-07-13T16:30:00+08:00"
     },
     {
       "date": "2026-07-10",
       "path": "reviews/2026-07-10.json",
-      "sha256": "9b96580067b22572b930f40cf3e7dfa728dbff9b719a585580c9969e5858877d",
+      "sha256": "52221dc92dd056f9bbd5f115a3fc5b77a360ce9f3930a9aba2a84bed5d64a361",
       "generatedAt": "2026-07-10T16:30:00+08:00"
     },
     {
       "date": "2026-07-09",
       "path": "reviews/2026-07-09.json",
-      "sha256": "35ec6bff6d2576f87b87331382b6d6ffa9bd35576f805417d160b727c51d824b",
+      "sha256": "3efc49415f19f0a785b7bcd93d6bcb1853646829c6ddc480d3496697d4bb9f9e",
       "generatedAt": "2026-07-09T16:30:00+08:00"
     },
     {
       "date": "2026-07-08",
       "path": "reviews/2026-07-08.json",
-      "sha256": "6ad2a83083a7c3ab5715270088e9d7199f6031feb45fe84f07fed1cf0a946b58",
+      "sha256": "2ccb33047101314d1dcf7e78c42ef5c0eda7b1d916baf2a4ac0e50a2d7bf79b1",
       "generatedAt": "2026-07-08T16:30:00+08:00"
     },
     {
       "date": "2026-07-07",
       "path": "reviews/2026-07-07.json",
-      "sha256": "f0793625b7925a557699874a526553300d85579f418ff7bec136480a70d78033",
+      "sha256": "c8e8804bbd7c0ff3bdc71c92e3301232f54e94f4a04db0c7c59d03314d344dd9",
       "generatedAt": "2026-07-07T16:30:00+08:00"
     },
     {
       "date": "2026-07-06",
       "path": "reviews/2026-07-06.json",
-      "sha256": "423700a6376fe057a4e050ebbb955e7b08aa9052b1f9dcd0c99fb9d50db20819",
+      "sha256": "7bb455f45ca1b3d65649cfb71394a4d5aa14ea0754fca06e3f80cc86b60c05d4",
       "generatedAt": "2026-07-06T16:30:00+08:00"
     },
     {
       "date": "2026-07-03",
       "path": "reviews/2026-07-03.json",
-      "sha256": "b278be2605c42d636488e6bfc4c40846a48e863cbb83414c8a40587ce9327480",
+      "sha256": "3902143577eccd9833514df4b480449472ff58fdc79d20fd3e319c02921b86f2",
       "generatedAt": "2026-07-03T16:30:00+08:00"
     },
     {
       "date": "2026-07-02",
       "path": "reviews/2026-07-02.json",
-      "sha256": "b54c2b60fceaad08b079970285d3aaa4db9811822d89191b95727b134fb9ee99",
+      "sha256": "b4e9a768e854af7e656bdd09a5936f5235cf3d357e61b49d76874ce7e0b4715a",
       "generatedAt": "2026-07-02T16:30:00+08:00"
     },
     {
       "date": "2026-07-01",
       "path": "reviews/2026-07-01.json",
-      "sha256": "34f8abb759cdc769a99593ba5396e56c73ad2f47782e0d1d615862218ac71ddf",
+      "sha256": "a0333a4f5952c76f58d5421cd143853ccd315b6ad319a4ac751831ba1afe7455",
       "generatedAt": "2026-07-01T16:30:00+08:00"
     }
   ]
