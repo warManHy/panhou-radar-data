@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "availableDates": [
+    "2026-07-21",
     "2026-07-20",
     "2026-07-17",
     "2026-07-16",
@@ -7058,11 +7059,12 @@
         ]
       }
     ],
+    "middayTopSectors": [],
     "marketTopSectors": [
       {
         "code": "MKT_new_dlhy",
         "name": "电力行业",
-        "group": "市场行业Top5",
+        "group": "尾盘全天Top5",
         "rank": 1,
         "isHot": true,
         "hotRank": 1,
@@ -7947,7 +7949,7 @@
       {
         "code": "MKT_new_glql",
         "name": "公路桥梁",
-        "group": "市场行业Top5",
+        "group": "尾盘全天Top5",
         "rank": 2,
         "isHot": true,
         "hotRank": 2,
@@ -8247,7 +8249,7 @@
       {
         "code": "MKT_new_syhy",
         "name": "石油行业",
-        "group": "市场行业Top5",
+        "group": "尾盘全天Top5",
         "rank": 3,
         "isHot": true,
         "hotRank": 3,
@@ -8562,7 +8564,7 @@
       {
         "code": "MKT_new_jrhy",
         "name": "金融行业",
-        "group": "市场行业Top5",
+        "group": "尾盘全天Top5",
         "rank": 4,
         "isHot": true,
         "hotRank": 4,
@@ -9327,7 +9329,7 @@
       {
         "code": "MKT_new_ljhy",
         "name": "酿酒行业",
-        "group": "市场行业Top5",
+        "group": "尾盘全天Top5",
         "rank": 5,
         "isHot": true,
         "hotRank": 5,
