@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-10T03:35:16.274Z",
+  "updatedAt": "2026-08-10T08:30:15.076Z",
   "latest": "2026-08-10",
   "availableDates": [
     "2026-08-10",
@@ -36,8 +36,8 @@
     {
       "date": "2026-08-10",
       "path": "reviews/2026-08-10.json",
-      "sha256": "a0a1feec225a9b68151d285ef8750f1a3949e4679fdcededd9395829c66b0b43",
-      "generatedAt": "2026-08-10T03:35:16.274Z"
+      "sha256": "13524c6130917256276c82d85182815bad5042f3153491a3b7d5b63c6056b1ac",
+      "generatedAt": "2026-08-10T08:30:15.076Z"
     },
     {
       "date": "2026-08-07",
