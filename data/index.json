@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T08:45:03.515Z",
-  "latest": "2026-10-08",
+  "updatedAt": "2026-10-09T03:35:05.238Z",
+  "latest": "2026-10-09",
   "availableDates": [
+    "2026-10-09",
     "2026-10-08",
     "2026-09-30",
     "2026-09-28",
@@ -53,285 +54,291 @@
   ],
   "reviews": [
     {
+      "date": "2026-10-09",
+      "path": "reviews/2026-10-09.json",
+      "sha256": "a97703f72c3067fe7184a9663d889bff30e3ce6ce27f8ef35da0861e91b6e925",
+      "generatedAt": "2026-10-09T03:35:05.238Z"
+    },
+    {
       "date": "2026-10-08",
       "path": "reviews/2026-10-08.json",
-      "sha256": "4c8baec47c5d1d5844595dc07338c9f11ecef756fd433976f8bad00087042931",
+      "sha256": "6fc38f7fe36c9a2ca904508cdffc970003335b7f30c8d4c458d7e15aee372a8d",
       "generatedAt": "2026-10-08T08:45:03.515Z"
     },
     {
       "date": "2026-09-30",
       "path": "reviews/2026-09-30.json",
-      "sha256": "810a6e7a5a63851e2bc1496545d0f38829712901b1c0c90cc7522a5fa82ababa",
+      "sha256": "51daaf61c00fc9a6098b0649ac78eef4ad2237b3e770ba1717e502afa73038d5",
       "generatedAt": "2026-09-30T14:01:20.389Z"
     },
     {
       "date": "2026-09-28",
       "path": "reviews/2026-09-28.json",
-      "sha256": "7587a218e7e244cd78b87bd684b4d60de6f6ae3c3cf5916fb08cfc61dba1b3fb",
+      "sha256": "261a57f2678a5e63393202a33713a6a8b9b108b009a626a38f24cbe75b24d33f",
       "generatedAt": "2026-09-28T08:39:55.093Z"
     },
     {
       "date": "2026-09-24",
       "path": "reviews/2026-09-24.json",
-      "sha256": "1b6b96431d757ed3e2085363b20647585064cde1cf5e96fd4192442a8e68c2cb",
+      "sha256": "65263fe11034abfd05f14ae7823468ab3a90949819ceda273a1c069e96ab400a",
       "generatedAt": "2026-09-24T08:31:58.697Z"
     },
     {
       "date": "2026-09-22",
       "path": "reviews/2026-09-22.json",
-      "sha256": "5ee6aee197ae1fd7cde70fdfb241cac8b3cb68aea6ba26743ac02c1a0b2281b5",
+      "sha256": "0b885582ec7da41d773efe8fc3c64c9e003be65252ef54960d19513c9b31c903",
       "generatedAt": "2026-09-22T08:33:05.891Z"
     },
     {
       "date": "2026-09-21",
       "path": "reviews/2026-09-21.json",
-      "sha256": "aa1b872c885dc50a75d90b6502bf00858bc95a2dd96e784e4a24e7fc35a1f61c",
+      "sha256": "2fd9d60ac38af8e2e296335bde3ce4f71c56f8bb851f000844ee2b0a35e523b7",
       "generatedAt": "2026-09-21T08:53:38.647Z"
     },
     {
       "date": "2026-09-18",
       "path": "reviews/2026-09-18.json",
-      "sha256": "921fb3178860a8b49c3c9a331e1c29f3e9ef6eb41a66e021026ba170c979dfc2",
+      "sha256": "12bfd71265d5695d3856713fc65b4320fdb8b193333490f1f2b8c48dfda12729",
       "generatedAt": "2026-09-18T08:36:53.830Z"
     },
     {
       "date": "2026-09-17",
       "path": "reviews/2026-09-17.json",
-      "sha256": "7ba639d8afc3f71498204b1c77b3c540f66db1e7c3519f16abc7560fe3b3a932",
+      "sha256": "9938576d99c6c9438e96dc7f48c5fd8327529a4cda9cf8a3aa00cd27775c43c6",
       "generatedAt": "2026-09-17T09:11:19.318Z"
     },
     {
       "date": "2026-09-16",
       "path": "reviews/2026-09-16.json",
-      "sha256": "97150be8dbb8b63a44d391b8bdf0bde05bfe24e9ead769b14c1b4143d38797f4",
+      "sha256": "ae38fa16fb43c6e087cf7681196a217d0b69e4bf753598fe0af0c196040b93e7",
       "generatedAt": "2026-09-16T09:07:00.091Z"
     },
     {
       "date": "2026-09-15",
       "path": "reviews/2026-09-15.json",
-      "sha256": "487e7200e8aec6859a40745164b596042fb0d27a0e71dceefff64c12836cc3ff",
+      "sha256": "0dc5e7b9179181143b28e14dcc06751d69eca60317c7b98afe16a87b3acbc16e",
       "generatedAt": "2026-09-15T08:45:07.519Z"
     },
     {
       "date": "2026-09-14",
       "path": "reviews/2026-09-14.json",
-      "sha256": "3d00f7d296054e3a71caaf4674867152c258811fb122305793542573b064dfbc",
+      "sha256": "445a4f777201cdfa5ede067c4d6daeebe57c7890e8e1cb0399d8b8ac3730e94d",
       "generatedAt": "2026-09-14T08:43:03.224Z"
     },
     {
       "date": "2026-09-10",
       "path": "reviews/2026-09-10.json",
-      "sha256": "42ce107fabc9815ea7916342179c68d17d4127b51f8d199a2c89e9e6cda35719",
+      "sha256": "ea92af1e02d919bf7b2aff8ba8aa0b02705f1956dea1f20d7220d6734e04ffd5",
       "generatedAt": "2026-09-10T08:45:03.145Z"
     },
     {
       "date": "2026-09-09",
       "path": "reviews/2026-09-09.json",
-      "sha256": "a64856e468df5772424a0cde2b4e4a4bb564b45d53c16be63a63c02726159416",
+      "sha256": "ca0097396640a6c2282de6a74d3e9124710bb475178847b41b4c7dc8bd2d51ec",
       "generatedAt": "2026-09-09T08:38:04.865Z"
     },
     {
       "date": "2026-09-08",
       "path": "reviews/2026-09-08.json",
-      "sha256": "d4a303914adcb7a8193b24d727709e0ef44482b96f59f9103db64e433f903216",
+      "sha256": "20f0727d25bb83b8f90a28c68980c13d735c4e30972fdc2b394c6f358755eec2",
       "generatedAt": "2026-09-08T08:31:08.222Z"
     },
     {
       "date": "2026-09-07",
       "path": "reviews/2026-09-07.json",
-      "sha256": "f676de22f53f18e277a96b6aa084195297fdc1a2e92620df5657c8b4e5e99130",
+      "sha256": "beae28229a9a8a673941f2a7f0f34ea5c1e7aed835705cbce35a2e9eea3e51c5",
       "generatedAt": "2026-09-07T09:11:39.077Z"
     },
     {
       "date": "2026-08-21",
       "path": "reviews/2026-08-21.json",
-      "sha256": "88c5541960bec28e7b2e8ca3762821c4b13307f7cefba096c9ef4e5b8c401eb9",
+      "sha256": "63ae56360b20d8e734819aae32c1c059312397e859b59040740b59fdab022055",
       "generatedAt": "2026-08-21T08:45:05.063Z"
     },
     {
       "date": "2026-08-14",
       "path": "reviews/2026-08-14.json",
-      "sha256": "2eb1d06724ec723d4197fec3b25624fe7803a0062192bfee613b176d1d1e9df4",
+      "sha256": "e103f5f1f197b7eb2c352ee0bdd3ab0958272a87b3b739fcc8f3afcf03d82e44",
       "generatedAt": "2026-08-14T08:40:38.173Z"
     },
     {
       "date": "2026-08-13",
       "path": "reviews/2026-08-13.json",
-      "sha256": "fc0df6bc0f1b977134eaa14e010e4cdc56c94750b84fab19259ba2866a66a0f2",
+      "sha256": "a2d3edca518e35a4fb1118f0e86ca134ae15411736b1b53d141359128e35872d",
       "generatedAt": "2026-08-13T08:45:06.519Z"
     },
     {
       "date": "2026-08-11",
       "path": "reviews/2026-08-11.json",
-      "sha256": "348ac82e2dd344971250c75eaedbedd7a5e479f519569a05f38940887db2d101",
+      "sha256": "5c26382ff7d9fc5278148e86104b8ba9ed1d7a94aec5409473f84317f716be69",
       "generatedAt": "2026-08-11T08:37:32.957Z"
     },
     {
       "date": "2026-08-10",
       "path": "reviews/2026-08-10.json",
-      "sha256": "beea4b895d492c92eb58e8b828cd1b30318ad0e73b468b6ce1f6774a4e0b2679",
+      "sha256": "52389a367b7f2778dad3f3ed6ed444e688d957b8351c2a77b9fa16b910f1606c",
       "generatedAt": "2026-08-10T08:30:15.076Z"
     },
     {
       "date": "2026-08-07",
       "path": "reviews/2026-08-07.json",
-      "sha256": "7ff848b9b10e9c14bb04fdeb6cfed83b8c2276bc6284352d73b8b6c4bbb5ca20",
+      "sha256": "202a18fe5d0869ee06eea6b49942495463af790e03d372cb8f02a9fe74f8fbef",
       "generatedAt": "2026-08-07T08:37:47.845Z"
     },
     {
       "date": "2026-08-06",
       "path": "reviews/2026-08-06.json",
-      "sha256": "9e5e2cd6d61639d3863d4f74608d3217ecc1d9e3f2d02960c6b3d8f806597507",
+      "sha256": "7027e8758c3c0b21a2d1de9c4b3965687cdd49d3bc4852a294f9e1eb9b954412",
       "generatedAt": "2026-08-06T08:35:20.038Z"
     },
     {
       "date": "2026-08-05",
       "path": "reviews/2026-08-05.json",
-      "sha256": "c57d078bcf82298caa2da607caf876f1c2158d32436177723e00305c4ee13a8f",
+      "sha256": "91ffa542d425a4dec6125ac647d07f93e58aebc9918d32d91964749f3239c3f8",
       "generatedAt": "2026-08-05T08:34:58.678Z"
     },
     {
       "date": "2026-08-04",
       "path": "reviews/2026-08-04.json",
-      "sha256": "8ba2553a52e5c32057b0441d1ee1a31e81a589123adf4a25e58883e0b6f14c7b",
+      "sha256": "6ee46e9333e02daf263198eba56e7e76c7b2768cbedd1988f0c954b603bf49b8",
       "generatedAt": "2026-08-04T08:35:16.412Z"
     },
     {
       "date": "2026-08-03",
       "path": "reviews/2026-08-03.json",
-      "sha256": "e2df68f01999a1cc43de732aad50fbb4417f5c3a72321918500263de25a6f743",
+      "sha256": "ed7e120f515739d6321379aac0bc3718f3e17fa0ee10e569cf938eb64dc92b99",
       "generatedAt": "2026-08-03T08:58:05.690Z"
     },
     {
       "date": "2026-07-30",
       "path": "reviews/2026-07-30.json",
-      "sha256": "d44163117852681bd66ff8b86113c9c8248e48f9bd8ca3d46af18cb76462f0bd",
+      "sha256": "b7085dbdd5e0d1fb8bf3a4c93955e855007074b849af98b91361d2d0fb76a605",
       "generatedAt": "2026-07-30T08:38:22.676Z"
     },
     {
       "date": "2026-07-29",
       "path": "reviews/2026-07-29.json",
-      "sha256": "9a2c35d5bf61f96e8bc4709b94adcbb2f8b8256a5488528761453f84c4865c7d",
+      "sha256": "d299e9a2865e12a1216f58a1c8a3a0fd100dcccff14861e99e7875ea8e373b2f",
       "generatedAt": "2026-07-29T08:36:40.905Z"
     },
     {
       "date": "2026-07-28",
       "path": "reviews/2026-07-28.json",
-      "sha256": "fb40d8fe03d1e532fd79b61ffadc2b66618e7f8553ba8fd711307798b698f4e8",
+      "sha256": "6cf8d3357d4f2143ed10c8a5a6adbaefbef6fe55311cb23abbef2cf33cbf993a",
       "generatedAt": "2026-07-28T08:45:06.788Z"
     },
     {
       "date": "2026-07-27",
       "path": "reviews/2026-07-27.json",
-      "sha256": "897ede56e22f082bf1327e42c82307f5d326df77becc7775667afe78e90a8880",
+      "sha256": "9015a483860de5fc89842cb70436435cb72d2c9b7d436f89cb577a69edb1dd90",
       "generatedAt": "2026-07-27T08:44:45.848Z"
     },
     {
       "date": "2026-07-24",
       "path": "reviews/2026-07-24.json",
-      "sha256": "c0d5bb49cdf24f4e5cc0005a7d48874c1cc6c635030df76a89bfd9977d83020c",
+      "sha256": "621d6f7b7332996610dbec63503da71c2a159446962d5163a7fa293d8d1b1a92",
       "generatedAt": "2026-07-24T13:17:56.636Z"
     },
     {
       "date": "2026-07-23",
       "path": "reviews/2026-07-23.json",
-      "sha256": "c48e354d1449cd38d46140d07fcfb7d406bd67c6a0a4a098c2ef268e5ac3b100",
+      "sha256": "2d30fa84eacd68259f0b2fc7c16443af6a6f250c5dbb88cf00c06da67f6104bd",
       "generatedAt": "2026-07-23T08:36:04.359Z"
     },
     {
       "date": "2026-07-22",
       "path": "reviews/2026-07-22.json",
-      "sha256": "2ea32c30df68494e5802e32082a5c16b7c6f216f5ee520da5c06e586ff75d3a9",
+      "sha256": "04853a4758f808bba7a64a15886669bffe46c4eb82b18c0720922722a53b3ba0",
       "generatedAt": "2026-07-22T08:37:18.234Z"
     },
     {
       "date": "2026-07-21",
       "path": "reviews/2026-07-21.json",
-      "sha256": "abbc4aa04adbc5f3242d2aaa9399a782142bd865d0647755dd0eeb0e9d5bac5f",
+      "sha256": "4dd23fd099aeabd1c4c2ea1f7b52143105241749ecf23c51cccc9fbab9d7aa81",
       "generatedAt": "2026-07-21T08:45:04.480Z"
     },
     {
       "date": "2026-07-20",
       "path": "reviews/2026-07-20.json",
-      "sha256": "01c021bfdde3a2d47ac43859cd3c028b49468cac5ee1ca2c88a617aea1c1fc2f",
+      "sha256": "0f4971dea33b9781ad9f215d9be9b16c066c456bb1aff5c7ae7bdf783ba81658",
       "generatedAt": "2026-07-21T04:28:18.465Z"
     },
     {
       "date": "2026-07-17",
       "path": "reviews/2026-07-17.json",
-      "sha256": "a11ae344021b58ea92d1445f542527526c4d3a6e0bdfe000f94df8ded1635e62",
+      "sha256": "e5e0667776ae7c0c41976915f40ca884a08207f0f84ca7e55c2c822b7c867bc4",
       "generatedAt": "2026-07-17T15:30:07.213Z"
     },
     {
       "date": "2026-07-16",
       "path": "reviews/2026-07-16.json",
-      "sha256": "e3ea5bfb5617041375d802a2e4e12c9f614ec57216128e637764b5af82d5c239",
+      "sha256": "cd5accec2975a7ceb3db851e775d5b063ec17e46bf75c5d0e39e9d9191c6a911",
       "generatedAt": "2026-07-16T16:30:00+08:00"
     },
     {
       "date": "2026-07-15",
       "path": "reviews/2026-07-15.json",
-      "sha256": "7669a6833ad9760daf4ff516ea0c280e6820da48ab9b6ab00b2761901c508d39",
+      "sha256": "41faa4188c921fc4124a3e84eafe2a1312dac4b50c6c03a997d695c16a41450d",
       "generatedAt": "2026-07-15T16:30:00+08:00"
     },
     {
       "date": "2026-07-14",
       "path": "reviews/2026-07-14.json",
-      "sha256": "a7d6579f64829e57a2501054f87743c4dabe3128562d100b77d5045d040fd4a1",
+      "sha256": "9612774844891553bb230aaa7f4c0081d41dcb933e64084aea4503970b689e85",
       "generatedAt": "2026-07-14T16:30:00+08:00"
     },
     {
       "date": "2026-07-13",
       "path": "reviews/2026-07-13.json",
-      "sha256": "2e4f1f51ec5024e8b7fe76c5d5c71175e1257410c4f7f70134b6a01d38c1450b",
+      "sha256": "72811cb427fc391899d5943e67de9717989dce02c35eed1ca83dd592b2d774d8",
       "generatedAt": "2026-07-13T16:30:00+08:00"
     },
     {
       "date": "2026-07-10",
       "path": "reviews/2026-07-10.json",
-      "sha256": "8ab62728e8a495fb1e89b4f88de6dd64ffcef84fb990a837595cf758f0beab68",
+      "sha256": "82ef1b2e157d6d3bb4820530683c706a1f833dbc4a2ec7b7e5d86c1219bfe429",
       "generatedAt": "2026-07-10T16:30:00+08:00"
     },
     {
       "date": "2026-07-09",
       "path": "reviews/2026-07-09.json",
-      "sha256": "6ee0ecbf80244c943b6fd3a36a2e9f8798c3cb892e9669770d2dec6644b1251d",
+      "sha256": "0687058a1502dfe424ef458bec2a2049ddc507371f43eb159c552fb2698d9ffe",
       "generatedAt": "2026-07-09T16:30:00+08:00"
     },
     {
       "date": "2026-07-08",
       "path": "reviews/2026-07-08.json",
-      "sha256": "22b939857a715e1fc75afa85e5ecdb18f1e26a7c918ea0962c66868f6e6c5a94",
+      "sha256": "25078ddbc9243e8aeb75bdb56ef7687707add6295028518b953f12f79d49928f",
       "generatedAt": "2026-07-08T16:30:00+08:00"
     },
     {
       "date": "2026-07-07",
       "path": "reviews/2026-07-07.json",
-      "sha256": "37e879e08d236c011ae4db716ea447e0bcc922e6ddfd0d48358c6db3b7ce1670",
+      "sha256": "1085a3dfa7aa75c3814285d0a3efed9c16b91858d1ba1c5525377717dc86689f",
       "generatedAt": "2026-07-07T16:30:00+08:00"
     },
     {
       "date": "2026-07-06",
       "path": "reviews/2026-07-06.json",
-      "sha256": "6596230e9734d217abbb92b6c12d3ef5bd9b18eaf91c378db28794ea2892d885",
+      "sha256": "f69309f5ab8fc95585394c5aaeafc4ba4397c069e6b1e3338180c3cbeec68b2c",
       "generatedAt": "2026-07-06T16:30:00+08:00"
     },
     {
       "date": "2026-07-03",
       "path": "reviews/2026-07-03.json",
-      "sha256": "d215807920556847d7932f754ff3065216f262651bae84052f2818273e30f0a0",
+      "sha256": "68bc4e10d77b4d6f5b9bc670128dbdcc9a2c440d3e8b6836b242dc8c104b9688",
       "generatedAt": "2026-07-03T16:30:00+08:00"
     },
     {
       "date": "2026-07-02",
       "path": "reviews/2026-07-02.json",
-      "sha256": "8c010c1429430db6b5af3750dac6a21b22bf7e1e460af153871f9cc195a39648",
+      "sha256": "f74edcbf4841706c9405ecc6b92be7c92424a9fa251f0029ba94cb7355f51cc5",
       "generatedAt": "2026-07-02T16:30:00+08:00"
     },
     {
       "date": "2026-07-01",
       "path": "reviews/2026-07-01.json",
-      "sha256": "b2c05ac7a63805dc1b4a6b72805701a6815d0528c13f370534062244770cfdca",
+      "sha256": "ed5a05fd5cc594ef9a271e76f7ef0935e0dde22b64a91ca09c536f4035b2d327",
       "generatedAt": "2026-07-01T16:30:00+08:00"
     }
   ]
